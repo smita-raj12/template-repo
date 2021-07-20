@@ -1,31 +1,46 @@
-# (Application Name)
 
-#### (Brief Description of Application)
+# Project Name
+ 
+## Name of contributor:
 
-#### By (Your Name Here)
+Smita   
 
-## Technologies Used
+## Live Site:
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+[https://smita-raj12.github.io/Pizza-Parlor](https://smita-raj12.github.io/Pizza-Parlor)
 
-## Description
+## Technologies used:
 
-## Setup/Installation Requirements
+1. HTML and CSS.
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+2. jQuery and Javascript.
 
-## Known Bugs
+3. Bootstrap.
+    
 
-* _Any known issues_
-* _should go here_
+## Complete setup/installation instructions:
 
-## License
+* Go to my project       
 
-## Contact Information
+* Clone this repository to your desktop.
+
+* Navigate to the directory.
+
+* Open Pizza-parlor/index.html on your choice of code editor.
+
+* If you are using Vscode, open the command palette and search for `live
+with live server`
+
+
+## Known bugs
+
+`None.`     
+
+## License information with a copyright and date:
+
+ [MIT](https://opensource.org/licenses/MIT)
+
+## Contact information:
+   
+* EmailId:smita.raj12@gmail.com
+
